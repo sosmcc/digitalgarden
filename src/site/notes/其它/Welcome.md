@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","dg-show-local-graph":"true","permalink":"/其它/Welcome/","tags":["gardenEntry"],"dgShowLocalGraph":"true","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":"true","dg-show-local-graph":"false","permalink":"/其它/Welcome/","tags":["gardenEntry"],"dgShowLocalGraph":"false","dgPassFrontmatter":true}
 ---
 
 This is your new *vault*.
